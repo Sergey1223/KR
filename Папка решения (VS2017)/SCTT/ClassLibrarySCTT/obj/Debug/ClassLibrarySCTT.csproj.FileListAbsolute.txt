@@ -1,0 +1,15 @@
+H:\1 курс\Программирование\2 семестр\Курсовая\SCTT\ClassLibrarySCTT\bin\Debug\ClassLibrarySCTT.dll
+H:\1 курс\Программирование\2 семестр\Курсовая\SCTT\ClassLibrarySCTT\bin\Debug\ClassLibrarySCTT.pdb
+H:\1 курс\Программирование\2 семестр\Курсовая\SCTT\ClassLibrarySCTT\obj\Debug\ClassLibrarySCTT.dll
+H:\1 курс\Программирование\2 семестр\Курсовая\SCTT\ClassLibrarySCTT\obj\Debug\ClassLibrarySCTT.pdb
+F:\1 курс\Программирование\2 семестр\Курсовая\SCTT\ClassLibrarySCTT\bin\Debug\ClassLibrarySCTT.dll
+F:\1 курс\Программирование\2 семестр\Курсовая\SCTT\ClassLibrarySCTT\bin\Debug\ClassLibrarySCTT.pdb
+F:\1 курс\Программирование\2 семестр\Курсовая\SCTT\ClassLibrarySCTT\obj\Debug\ClassLibrarySCTT.csprojResolveAssemblyReference.cache
+F:\1 курс\Программирование\2 семестр\Курсовая\SCTT\ClassLibrarySCTT\obj\Debug\ClassLibrarySCTT.dll
+F:\1 курс\Программирование\2 семестр\Курсовая\SCTT\ClassLibrarySCTT\obj\Debug\ClassLibrarySCTT.pdb
+H:\1 курс\Программирование\2 семестр\Курсовая\SCTT\ClassLibrarySCTT\obj\Debug\ClassLibrarySCTT.csprojResolveAssemblyReference.cache
+F:\Documents\Документы\1 курс\Программирование\2 семестр\Курсовая\SCTT\ClassLibrarySCTT\bin\Debug\ClassLibrarySCTT.dll
+F:\Documents\Документы\1 курс\Программирование\2 семестр\Курсовая\SCTT\ClassLibrarySCTT\bin\Debug\ClassLibrarySCTT.pdb
+F:\Documents\Документы\1 курс\Программирование\2 семестр\Курсовая\SCTT\ClassLibrarySCTT\obj\Debug\ClassLibrarySCTT.csprojResolveAssemblyReference.cache
+F:\Documents\Документы\1 курс\Программирование\2 семестр\Курсовая\SCTT\ClassLibrarySCTT\obj\Debug\ClassLibrarySCTT.dll
+F:\Documents\Документы\1 курс\Программирование\2 семестр\Курсовая\SCTT\ClassLibrarySCTT\obj\Debug\ClassLibrarySCTT.pdb
